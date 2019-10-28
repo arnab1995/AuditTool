@@ -6,9 +6,9 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 numpy==1.16.4
-unixodbc==2.3.7
-unixodbc-devel==2.3.7
-python-pyodbc==2.7
+unixodbc
+unixodbc-devel
+python-pyodbc
 pyodbc==4.0.26
 six==1.12.0
 Werkzeug==0.15.5
